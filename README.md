@@ -1,40 +1,39 @@
-Evan Dong
+# Evan Dong
 
-Computer Science and Biochemistry student at NYU Tandon. I build full stack applications, computational tools, and systems that connect software with real world problems. My interests span backend development, computer vision, VR learning systems, and database design.
+CS & Biochemistry student at NYU Tandon  
+Building full-stack applications, computational tools, and systems that connect software with real-world problems.
 
-About Me
+---
 
-I enjoy creating projects that are technically grounded and easy for people to use. My work often focuses on clean architecture, data modeling, and performance. I like exploring how software can support education, research, and everyday workflows.
+## About  
+I create clean, efficient, and user-friendly systems. My focus is on backend engineering, data modelling, performance, and bridging software with education and research.
 
-Featured Work
+---
 
-EzeTracker
-Full stack job application tracker built with Next.js, TypeScript, Supabase, and GitHub Actions. Designed around fast user flows and clear data visibility.
+## Selected Projects  
+**EzeTracker** – A full-stack job application tracker built with Next.js, TypeScript & Supabase.  
+**AcneScan** – A deep-learning acne classification tool (TensorFlow, MobileNetV2) paired with a React & Flask front end.  
+**Airport DB System** – Relational database design: schemas, indexing, concurrency, caching, REST APIs.  
+**Autonomous Tennis Robot** – Vision pipeline (OpenCV on Raspberry Pi) for contour detection & ball tracking.
 
-AcneScan
-Deep learning acne classification system using TensorFlow and MobileNetV2. Built as a full stack React and Flask application.
+---
 
-Air Ticket and Airport Database System
-Relational database project with SQL schemas, foreign keys, REST endpoints, indexing, concurrency, and caching.
+## Skills  
+**Languages:** Python · TypeScript · JavaScript · C++ · Java · SQL  
+**Technologies:** React · Next.js · Supabase · Flask · TensorFlow · OpenCV · Git · Linux  
+**Focus areas:** Full-stack development · Databases · Computer vision · VR learning systems · Machine learning
 
-Autonomous Tennis Robot
-Computer vision pipeline using OpenCV on Raspberry Pi for contour detection and ball tracking.
+---
 
-Skills
+## Current Focus  
+• Developing the HackNYU web platform  
+• Building VR collaboration tools with the Metaverse for Education team  
+• Designing backend and database systems  
+• Preparing for sophomore-internship recruiting
 
-Languages: Python, TypeScript, JavaScript, C++, Java, SQL
-Tools: React, Next.js, Supabase, Flask, TensorFlow, OpenCV, Git, Linux
-Focus Areas: Full stack development, databases, computer vision, VR systems, machine learning
+---
 
-What I Am Working On
-
-HackNYU web platform development
-VR learning tools with the Metaverse for Education team
-Backend and database design projects
-Sophomore internship recruiting and technical preparation
-
-Links
-
-Portfolio: https://your-portfolio-link.com
-
+## Links  
+Portfolio: https://your-portfolio-link.com  
 LinkedIn: https://www.linkedin.com
+
